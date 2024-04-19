@@ -2,7 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "proxy":"http://localhost:8000",
+  "proxy":"https://back-1-f4ck.onrender.com/",
   "type": "module",
   "scripts": {
     "dev": "vite",
